@@ -42,3 +42,9 @@ Requests user input of the nodes and the connections between them, along with th
 
 1. HW3, Topic-2
 2. Question 16, DAMA60_Final-Exam_22-23
+
+### PCY.py
+
+It accepts an array/list of transactions and returns all of the intermediate and final results of the algorithm (frequent items, hashed pairs/buckets, candidate pairs, frequent pairs, infrequent pairs). Kudos to Kiriakos for providing it! Tested on:
+
+1. HW3, Topic-3
